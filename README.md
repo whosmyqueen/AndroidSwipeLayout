@@ -1,7 +1,6 @@
 # Android Swipe Layout [![Build Status](https://travis-ci.org/daimajia/AndroidSwipeLayout.svg?branch=master)](https://travis-ci.org/daimajia/AndroidSwipeLayout)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/daimajia/AndroidSwipeLayout?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![](https://jitpack.io/v/whosmyqueen/AndroidSwipeLayout.svg)](https://jitpack.io/#whosmyqueen/AndroidSwipeLayout)
 [![Insight.io](https://insight.io/repoBadge/github.com/daimajia/AndroidSwipeLayout)](https://insight.io/github.com/daimajia/AndroidSwipeLayout)
 
 This is the brother of [AndroidViewHover](https://github.com/daimajia/AndroidViewHover).
